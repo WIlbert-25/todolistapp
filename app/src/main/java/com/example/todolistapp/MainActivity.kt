@@ -61,7 +61,7 @@ fun TodoApp() {
                 Text(if (editingTask != null) "Update" else "Add")
             }
         }
-        Spacer(modifier = Modifier.height(16.dp))
+        Spacer(modifier = Modifier.height(17.dp))
         TodoList(todoList, onEdit = { task ->
             newTask = TextFieldValue(task)
             editingTask = task
