@@ -12,3 +12,6 @@ Notebook es una aplicación de notas diseñada para gestionar tus apuntes diario
 - **Editar Notas**: Facilita la modificación de notas existentes.
 - **Eliminar Notas**: Opción para eliminar notas no deseadas.
 - **Visualización de Notas**: Muestra una lista de todas las notas guardadas.
+
+## Video explicativo
+https://drive.google.com/file/d/1T572_DjDlPY8d7MvfAiRlV6dRTXUYkqw/view?usp=drive_link
